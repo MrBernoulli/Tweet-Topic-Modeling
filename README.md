@@ -4,4 +4,4 @@ In this unsupervised learning project, we utilize latent Dirichlet allocation (L
 
 We read tweets from Twitter using the Tweepy python API, then carry out the necessary preprocessings such as punctuation removal, tokenization, stemming, and lemmatization.
 
-We then proceed to use the powerful Gensim library to carry out the LDA; under both Bag-of-words and TF-IDF tweet representations, and while varying the key hyperparamter in LDA: The number of topics.
+We then proceed to use the powerful Gensim library to carry out the LDA; under both Bag-of-words and TF-IDF tweet representations, and while varying the key hyperparamter in topic modeling: The number of topics.
