@@ -1,4 +1,4 @@
-# Tweet-Topic-Modeling-Via-LDA
+# Tweet-Topic-Modeling
 
 In this unsupervised learning project, we utilize latent Dirichlet allocation (LDA) to model likely topics for a given tweet.
 
